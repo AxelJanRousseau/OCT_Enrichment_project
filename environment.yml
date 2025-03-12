@@ -1,0 +1,15 @@
+name: oct_project
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.12
+  - pandas
+  - matplotlib
+  - notebook
+  - scikit-learn
+  - seaborn
+  - pydicom
+  - tqdm
+  - openpyxl
+prefix: C:\Users\axelj\miniconda3\envs\oct_project
